@@ -1,0 +1,1 @@
+raspivid -o (Ra)SpyBot.h264 -t 90000
